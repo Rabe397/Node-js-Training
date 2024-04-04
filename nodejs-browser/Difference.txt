@@ -1,0 +1,13 @@
+-Both use Js as their programming langauage
+
+-browser:
+ -interct with dom using window,documwnt object
+ -doesn't interact with filesystem access functionality
+ -Browser environment , where you don't get the luxury to choose what browser your vistors will use
+
+
+
+-nodejs
+ -doesn't interact with dom
+ -interact with filesystem access functionality
+ -you control the enviornment (you know which version of nodejs you will run)
